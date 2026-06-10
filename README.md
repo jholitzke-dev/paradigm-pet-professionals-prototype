@@ -1,4 +1,4 @@
-# paradigm-pet-professionals-prototype
+
 # Paradigm Pet Professionals Website Redesign
 
 ## Project Overview
